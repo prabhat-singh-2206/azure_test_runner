@@ -1,0 +1,11 @@
+idna
+packaging
+pefile
+pillow
+pip
+pyinstaller
+pyinstaller-hooks-contrib
+pywin32-ctypes
+requests
+setuptools
+urllib3
